@@ -1,0 +1,272 @@
+[
+  {
+   "id": 1,
+   "imageUrl": "../img/ts1.jpg",
+   "name": "Street",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Shirts",
+   "sex": "man"
+  },
+  {
+   "id": 2,
+   "imageUrl": "../img/ts2.jpg",
+   "name": "Street-2",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Shirts",
+   "sex": "man"
+  },
+  {
+   "id": 3,
+   "imageUrl": "../img/ts3.jpg",
+   "name": "Street-3",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Shirts",
+   "sex": "man"
+  },
+  {
+   "id": 4,
+   "imageUrl": "../img/ts4.jpg",
+   "name": "Street-4",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Shirts",
+   "sex": "man"
+  },
+  {
+   "id": 5,
+   "imageUrl": "../img/tshirt11.png",
+   "name": "Street-5",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Shirts",
+   "sex": "man"
+  },
+  {
+   "id": 6,
+   "imageUrl": "../img/p3.webp",
+   "name": "Pants-1",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Pants",
+   "sex": "man"
+  },
+  {
+   "id": 7,
+   "imageUrl": "../img/p2.jpg",
+   "name": "Pants-2",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Pants",
+   "sex": "man"
+  },
+  {
+   "id": 8,
+   "imageUrl": "../img/p4.jpg",
+   "name": "Pants-3",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Pants",
+   "sex": "man"
+  },
+  {
+   "id": 9,
+   "imageUrl": "../img/p1.jpg",
+   "name": "Pants-4",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Pants",
+   "sex": "man"
+  },
+  {
+   "id": 10,
+   "imageUrl": "../img/p5.webp",
+   "name": "Pants-5",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Pants",
+   "sex": "man"
+  },
+  {
+   "id": 11,
+   "imageUrl": "../img/jm2.webp",
+   "name": "Jackets-1",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Jackets",
+   "sex": "man"
+  },
+  {
+   "id": 12,
+   "imageUrl": "../img/jm3.webp",
+   "name": "Jackets-2",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Jackets",
+   "sex": "man"
+  },
+  {
+   "id": 13,
+   "imageUrl": "../img/jm4.webp",
+   "name": "Jackets-3",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Jackets",
+   "sex": "man"
+  },
+  {
+   "id": 14,
+   "imageUrl": "../img/jm5.webp",
+   "name": "Jackets-4",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Jackets",
+   "sex": "man"
+  },
+  {
+   "id": 15,
+   "imageUrl": "../img/jm2.webp",
+   "name": "Jackets-5",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Jackets",
+   "sex": "man"
+  },
+  {
+   "id": 16,
+   "imageUrl": "../img/wt1.webp",
+   "name": "ShirtsW1",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Shirts",
+   "sex": "women"
+  },
+  {
+   "id": 17,
+   "imageUrl": "../img/wt2.webp",
+   "name": "ShirtsW2",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Shirts",
+   "sex": "women"
+  },
+  {
+   "id": 18,
+   "imageUrl": "../img/wt3.webp",
+   "name": "ShirtsW3",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Shirts",
+   "sex": "women"
+  },
+  {
+   "id": 19,
+   "imageUrl": "../img/wt4.webp",
+   "name": "ShirtsW4",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Shirts",
+   "sex": "women"
+  },
+  {
+   "id": 20,
+   "imageUrl": "../img/wt5.webp",
+   "name": "ShirtsW5",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Shirts",
+   "sex": "women"
+  },
+  {
+   "id": 21,
+   "imageUrl": "../img/wp1.webp",
+   "name": "PantsW1",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Pants",
+   "sex": "women"
+  },
+  {
+   "id": 22,
+   "imageUrl": "../img/wp2.webp",
+   "name": "PantsW2",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Pants",
+   "sex": "women"
+  },
+  {
+   "id": 23,
+   "imageUrl": "../img/wp3.webp",
+   "name": "PantsW3",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Pants",
+   "sex": "women"
+  },
+  {
+   "id": 24,
+   "imageUrl": "../img/wp4.webp",
+   "name": "PantsW4",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Pants",
+   "sex": "women"
+  },
+  {
+   "id": 25,
+   "imageUrl": "../img/wp5.webp",
+   "name": "PantsW5",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Pants",
+   "sex": "women"
+  },
+  {
+   "id": 26,
+   "imageUrl": "../img/km1.webp",
+   "name": "Kimonos",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Kimonos",
+   "sex": "women"
+  },
+  {
+   "id": 27,
+   "imageUrl": "../img/km2.webp",
+   "name": "Kimonos1",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Kimonos",
+   "sex": "women"
+  },
+  {
+   "id": 28,
+   "imageUrl": "../img/km3.webp",
+   "name": "Kimonos2",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Kimonos",
+   "sex": "women"
+  },
+  {
+   "id": 29,
+   "imageUrl": "../img/km4.webp",
+   "name": "Kimonos3",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Kimonos",
+   "sex": "women"
+  },
+  {
+   "id": 30,
+   "imageUrl": "../img/km5.webp",
+   "name": "Kimonos4",
+   "price": 1.533,
+   "rating": 2,
+   "type": "Kimonos",
+   "sex": "women"
+  }
+ ]
